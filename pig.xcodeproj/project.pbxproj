@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		34E2F1C2291C009900BD36E3 /* pig.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pig.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34E2F1C5291C009900BD36E3 /* pigApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pigApp.swift; sourceTree = "<group>"; };
-		34E2F1C7291C009900BD36E3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		34E2F1C7291C009900BD36E3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 1; };
 		34E2F1C9291C009B00BD36E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34E2F1CC291C009B00BD36E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
